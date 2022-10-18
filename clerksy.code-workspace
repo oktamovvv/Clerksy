@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Coffee.1"
+		},
+		{
+			"path": "..\\Coffee.2"
+		},
+		{
+			"path": "..\\Coffee.3"
+		},
+		{
+			"path": "..\\insure"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "clerksy",
+		"liveServer.settings.port": 5501
+	}
+}
